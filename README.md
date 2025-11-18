@@ -1,4 +1,4 @@
-# 22CG031937-EDS411-BLOG-1
+# 21CG029855-EDS411-BLOG-1
 
 A minimal, responsive static blog page about "The Future of Artificial Intelligence in Everyday Life".
 
